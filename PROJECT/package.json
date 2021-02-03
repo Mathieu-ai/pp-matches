@@ -1,0 +1,13 @@
+{
+  "name": "pp-ailumette",
+  "version": "1.0.0",
+  "main": "Test.js",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Test.js"
+  }
+}
