@@ -1,13 +1,13 @@
+## PP-ailumette
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Pyramidal_matches.svg/1200px-Pyramidal_matches.svg.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+
   </a>
 
-  <h3 align="center">pp-ailumette</h3>
-
   <p align="center">
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
