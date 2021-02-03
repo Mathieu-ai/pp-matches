@@ -8,7 +8,6 @@
 
   <p align="center">
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -33,8 +32,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 The project is to create a Matches game where you play again an AI where the goal is to push the opponent to pull the last Match
 
