@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="C:\Users\Mathieu-ADMIN\Pictures\Efrei\JS\pp-ailumette\PROJECT\logo/logo.png">
+  <a href="https://efrei365net-my.sharepoint.com/:i:/g/personal/mathieu_lievre_efrei_net/Eb4cTLlyF_tDgEeLv8Y3nucBOBPundfzd-8bCIyNBD72dg?e=Cghuf2">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
