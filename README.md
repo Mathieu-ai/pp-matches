@@ -61,7 +61,7 @@ You will need to use the software and how to install them.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Mathieu-ai/pp-ailumette
+   git clone https://github.com/Mathieu-ai/pp-matches
    ```
 2. Install NPM packages
    ```sh
@@ -73,4 +73,4 @@ You will need to use the software and how to install them.
 
 ## Contact
 
-Project Link: [https://github.com/Mathieu-ai/pp-ailumette](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Mathieu-ai/pp-matches](https://github.com/your_username/repo_name)
